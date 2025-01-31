@@ -31,5 +31,4 @@ pip install PyGObject
 ### Interface
 <img src="https://github.com/HVTom/YOLO-Car-counter/blob/master/images/GUI_Empty.png" alt="Empty GUI" width="400">
 <img src="https://github.com/HVTom/YOLO-Car-counter/blob/master/images/GUI.png" alt="After Processing" width="400">
-![Empty GUY](https://github.com/HVTom/YOLO-Car-counter/blob/master/images/GUI_Empty.png)
-![After Processing](https://github.com/HVTom/YOLO-Car-counter/blob/master/images/GUI.png)
+
