@@ -1,10 +1,8 @@
 # YOLO-Car-counter
 
-A Python application for detecting and counting cars in images using YOLO and GTK.
-
 
 ### Description
-This application uses the YOLO (You Only Look Once) model for car detection in images through an intuitive graphical interface. The implementation combines computer vision techniques with a user-friendly GTK interface for real-time car counting.
+A Python application for detecting and counting cars in images using YOLO and GTK.
 
 
 ### Features
