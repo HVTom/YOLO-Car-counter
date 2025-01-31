@@ -21,9 +21,9 @@ This application uses the YOLO (You Only Look Once) model for car detection in i
  
 ### Installation
 
-'pip install opencv-python'
-'pip install numpy'
-'pip install PyGObject'
+```pip install opencv-python```
+```pip install numpy```
+```pip install PyGObject```
 
 
 ### Interface
